@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**TheTeoChanel/TheTeoChanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Teo! I am a beginner coder (very beginner) and I am learning Python!
 
-Here are some ideas to get you started:
+## My Languages
+Here is some of languages that I know :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML (not a real language)
+- CSS (not a real language)
+- Javascript (only in web)
+- Python (i know only very basics)
+- Batch (windows command language)
+
+## I am learning
+Here is some things that I learned recently :
+- HTML custom tags (with CSS)
+- Functions and loops in Python (its very veryy basic i know)
+- How to make README files like this
+- How to use turtle library in Python
+<br><br>
+### Some random code here lol
+```python
+def cm2meters(cm):
+  meter = cm * 100
+  return meter
+
+inputcm = input('Type some amount in centimeters :')
+print(f'{inputcm} centimeters is {cm2meters(inputcm)}')
+```
